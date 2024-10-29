@@ -1,0 +1,6 @@
+Git is a distributed version control system that allows you to track changes in your code over time. It is widely used by developers to manage their codebase and collaborate with others.
+
+Here's a brief overview of how Git works:
+
+1. **Repository**: A Git repository is a directory that contains all the files and history of your project. It can be local (on your computer) or remote (on a server).
+
